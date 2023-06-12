@@ -1,8 +1,13 @@
+body{
+    background-color: #575252;
+}
+
+
 .calculator {
     max-width: 300px;
     margin: 10% auto;
     padding: 20px;
-    background-color: #f2f2f2;
+    background-color: #575252;
     border: 1px solid #ccc;
     border-radius: 4px;
 }
